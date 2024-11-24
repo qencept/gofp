@@ -1,0 +1,15 @@
+
+todo
+- ja4l
+- ja4ssh
+- assembly stream callback stop (no interest in further data)
+- probing l7 dissectors over tcp
+- ssh
+- loopback capture
+- own libpcap binding (zero-copy)
+- optimize assembly stream expiration (heap)
+- optimize ooo storage (heap)
+- ip4 (?ip6) defragmentation
+- icmp6
+- udp
+- quic
